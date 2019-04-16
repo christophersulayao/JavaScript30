@@ -29,7 +29,7 @@ html {
   color: black;
   background: red;
   text-shadow: 0 0 .5rem black;
-  height: 282px;
+  height: 380px;
   width: 400px;
 }
 
@@ -57,5 +57,6 @@ h1{
   margin: 0 auto;
   color: white;
 }
+
 
 
