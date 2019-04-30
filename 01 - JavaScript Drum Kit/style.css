@@ -35,7 +35,7 @@ html {
 
 .playing {
   transform: scale(2);
-  border-color: white;
+  border-color: grey;
   box-shadow: 0 0 1rem white;
 }
 
